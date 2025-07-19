@@ -18,12 +18,6 @@ Move, click, drag, and scroll naturally — no hardware needed beyond your hands
 
 ---
 
-## 📸 Demo
-
-> *(Add your screen recording demo here!)*
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.7+
